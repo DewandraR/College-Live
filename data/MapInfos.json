@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Shop District","order":2,"parentId":0,"scrollX":904.8,"scrollY":559.6},
 {"id":2,"expanded":false,"name":"Downtown","order":6,"parentId":0,"scrollX":1348,"scrollY":554},
-{"id":3,"expanded":false,"name":"Kampus","order":1,"parentId":0,"scrollX":885.6,"scrollY":621.6},
+{"id":3,"expanded":false,"name":"Kampus","order":1,"parentId":0,"scrollX":904.8,"scrollY":622},
 {"id":4,"expanded":true,"name":"Kos","order":3,"parentId":1,"scrollX":904.8,"scrollY":560.4},
 {"id":5,"expanded":false,"name":"Lt 2","order":4,"parentId":4,"scrollX":904.8,"scrollY":559.6},
 {"id":6,"expanded":false,"name":"Prolog","order":7,"parentId":0,"scrollX":911.2,"scrollY":559.6},
